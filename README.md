@@ -1,5 +1,4 @@
 # Time Series Forecasting - Wine-Sales
-# Analyzing and Forecasting Wine Sales
 The data of 2 different types of wine sales in the 20th century is to be analysed. Both of these data are from the same company but of different wines. As an analyst in the ABC Estate Wines, you are tasked to analyse and forecast Wine Sales in the 20th century.
 
 ## Types of wines that is to be analysed are: 
