@@ -23,3 +23,9 @@ Solving the following questions on each of these two data sets separately.
 1) Time Series Forecasting Report 
 2) Sparkling Wine jupyter notebook
 3) Rose Wine jupyter notebook
+
+## Skills & Tools Covered
+- Exploratory Data Analysis for Time Series Data
+- Exponential Smoothing Models
+- ARIMA/SARIMA Models
+- Moving Average Models
